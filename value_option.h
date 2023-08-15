@@ -1,0 +1,1 @@
+enum value_option {empty, cross, circle};
